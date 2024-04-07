@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:afzalikm@mcmaster.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Mohammad__AFZ
