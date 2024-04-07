@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a graduated Master's student from McMaster University, fortunate to have been advised by Dr. Hassan Ashtiani. My research has focused on Trustworthy Machine Learning. Prior to that, I obtained my Bachelor's degree in Computer Science from Sharif University of Technology.
+I am a graduated Master's student from McMaster University, fortunate to have been advised by <a href="https://www.cas.mcmaster.ca/ashtiani/">Dr. Hassan Ashtiani</a>. My research has focused on Trustworthy Machine Learning. Prior to that, I obtained my Bachelor's degree in Computer Science from Sharif University of Technology.
 {style="text-align: justify;"}
