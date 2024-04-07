@@ -53,8 +53,7 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-       
+      text: ''
       filters:
         folders:
           - publication
