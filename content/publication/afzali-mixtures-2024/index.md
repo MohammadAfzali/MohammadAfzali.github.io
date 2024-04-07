@@ -23,7 +23,7 @@ publishDate: '2024-02-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['2']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *ALT, International Conference on Algorithmic Learning Theory*
