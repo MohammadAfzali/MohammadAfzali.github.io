@@ -4,10 +4,7 @@ title: 'Mixtures of Gaussians are Privately Learnable with a Polynomial Number o
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Hassan Ashtiani
-  - Chris Liaw
+authors: ["Mohammad Afzali", "Hassan Ashtiani", "Chris Liaw"]
 
 # # Author notes (optional)
 # author_notes:
@@ -26,8 +23,8 @@ publishDate: '2024-02-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ALT, International Conference on Algorithmic Learning Theory*
-publication_short: In *ALT 2024*
+publication: "In ALT, International Conference on Algorithmic Learning Theory"
+# publication_short: In *ALT 2024*
 
 abstract: ''
 
