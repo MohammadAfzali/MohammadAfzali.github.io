@@ -1,5 +1,5 @@
 ---
-title: 'Optimal Bidding Strategy with Smooth Budget Delivery in Online Advertising <br>' <br> 
+title: 'Optimal Bidding Strategy with Smooth Budget Delivery in Online Advertising <br>'
 
 
 authors: ["Mohammad Afzali", "Keykhosro Khosravani", "Maryam Babazadeh"]
