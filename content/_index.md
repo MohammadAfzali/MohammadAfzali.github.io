@@ -60,7 +60,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: 2
+      view: 1
   - block: experience
     content:
       title: Technical Experience
