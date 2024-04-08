@@ -80,9 +80,9 @@ sections:
           location: Iran
           date_start: '2019-10-01'
           date_end: '2020-07-02'
-          description: "Worked on storing and processing Big Data and performed efficient ETLs for traffic prediction, user seg-
-mentation, ETA improvement, and extracting user behavior chain.
-Balad is the leading map and navigation service in Iran."
+          description: "Designed and implemented a scalable data pipeline utilizing Big Data technologies, including Apache
+Airflow, Kafka, Hadoop, and MongoDB. Conducted efficient ETL processes using Apache Spark for
+traffic prediction, user segmentation, ETA improvement, and user behavior chain extraction. Balad is the leading map and navigation service in Iran."
 
         - title: Software Engineer Intern
           company: Cafe Bazaar
@@ -91,8 +91,8 @@ Balad is the leading map and navigation service in Iran."
           location: Iran
           date_start: '2019-06-01'
           date_end: '2019-09-01'
-          description: "Designed and implemented an online Auto Mechanic web service in a team. It is a web application providing
-users with car repairing services."
+          description: "Designed and implemented an online Auto Mechanic web service in a team, providing car repair services.
+Gained expertise in software design, development, testing, deployment, and maintenance."
 
 
     design:
