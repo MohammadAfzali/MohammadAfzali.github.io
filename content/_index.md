@@ -60,7 +60,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: 3
+      view: 2
   - block: experience
     content:
       title: Technical Experience
@@ -73,27 +73,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Data Engineer
+          company: Balad
+          company_url: 'https://balad.ir/about'
+          company_logo: baladlogo
+          location: Iran
+          date_start: '2019-10-01'
+          date_end: '2020-07-02'
           description: |2-
-              Responsibilities include:
+              Worked on storing and processing Big Data and performed efficient ETLs for traffic prediction, user seg-
+mentation, ETA improvement, and extracting user behavior chain.
+Balad is the leading map and navigation service in Iran.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Software Engineer Intern
+          company: Cafe Bazaar
+          company_url: 'https://cafebazaar.ir/?l=en'
+          company_logo: bazaarlogo
+          location: Iran
+          date_start: '2019-06-01'
+          date_end: '2019-09-01'
+          description: Designed and implemented an online Auto Mechanic web service in a team. It is a web application providing
+users with car repairing services.
+1
+
     design:
       columns: '2'
   # - block: accomplishments
