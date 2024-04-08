@@ -76,7 +76,7 @@ sections:
         - title: Data Engineer
           company: Balad
           company_url: 'https://balad.ir/about'
-          # company_logo: ''
+          company_logo: baladlogo
           location: Iran
           date_start: '2019-10-01'
           date_end: '2020-07-02'
@@ -87,7 +87,7 @@ Balad is the leading map and navigation service in Iran."
         - title: Software Engineer Intern
           company: Cafe Bazaar
           company_url: 'https://cafebazaar.ir/?l=en'
-          # company_logo: ''
+          company_logo: bazaarlogo
           location: Iran
           date_start: '2019-06-01'
           date_end: '2019-09-01'
