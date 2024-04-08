@@ -38,10 +38,10 @@ education:
   courses:
     - course: Master's in Computer Science
       institution: McMaster University
-      year: 2022
+      year: 2022-2024
     - course: BSc in Computer Science
       institution: Sharif University of Technology
-      year: 2017
+      year: 2017-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
