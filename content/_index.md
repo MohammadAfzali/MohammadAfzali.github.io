@@ -93,7 +93,7 @@ Balad is the leading map and navigation service in Iran."
           date_end: '2019-09-01'
           description: "Designed and implemented an online Auto Mechanic web service in a team. It is a web application providing
 users with car repairing services."
-1
+
 
     design:
       columns: '2'
